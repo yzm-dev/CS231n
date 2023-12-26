@@ -6,8 +6,6 @@
 ### Overview
 These are my solutions for the **CS231n** course assignments offered by Stanford University (Spring 2021). Solutions work for further years like 2022, 2023. Inline questions are explained in detail, the code is brief and commented (see examples below). From what I investigated, these should be the shortest code solutions (excluding open-ended challenges). In assignment 2, _DenseNet_ is used in _PyTorch_ notebook and _ResNet_ in _TensorFlow_ notebook. 
 
-> Check out the solutions for **[CS224n](https://github.com/mantasu/cs224n)**. They contain more comprehensive explanations than others.
-
 ### Main sources (official)
 * [**Course page**](http://cs231n.stanford.edu/index.html)
 * [**Assignments**](http://cs231n.stanford.edu/assignments.html)
