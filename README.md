@@ -1,10 +1,7 @@
 <h1 align="center">CS231n: Assignment Solutions</h1>
 <p align="center"><b>Convolutional Neural Networks for Visual Recognition</b></p>
-<p align="center"><i>Stanford - Spring 2021-2023</i></p>
 
 ## About
-### Overview
-These are my solutions for the **CS231n** course assignments offered by Stanford University (Spring 2021). Solutions work for further years like 2022, 2023. Inline questions are explained in detail, the code is brief and commented (see examples below). From what I investigated, these should be the shortest code solutions (excluding open-ended challenges). In assignment 2, _DenseNet_ is used in _PyTorch_ notebook and _ResNet_ in _TensorFlow_ notebook. 
 
 ### Main sources (official)
 * [**Course page**](http://cs231n.stanford.edu/index.html)
@@ -31,9 +28,6 @@ These are my solutions for the **CS231n** course assignments offered by Stanford
 * [Q5](assignment2/TensorFlow.ipynb) _option 2_: TensorFlow on CIFAR-10. (_Done_)
 
 ### Assignment 3
-* [Q1](assignment3/RNN_Captioning.ipynb): Image Captioning with Vanilla RNNs (_Done_)
-* [Q2](assignment3/Transformer_Captioning.ipynb): Image Captioning with Transformers (_Done_)
-* [Q3](assignment3/Network_Visualization.ipynb): Network Visualization: Saliency Maps, Class Visualization, and Fooling Images (_Done_)
-* [Q4](assignment3/Generative_Adversarial_Networks.ipynb): Generative Adversarial Networks (_Done_)
-* [Q5](assignment3/Self_Supervised_Learning.ipynb): Self-Supervised Learning for Image Classification (_Done_)
-* [Q6](assignment3/LSTM_Captioning.ipynb): Image Captioning with LSTMs (_Done_)
+* [Q1](assignment3/Transformer_Captioning.ipynb): Image Captioning with Transformers (_Done_)
+* [Q2](assignment3/Generative_Adversarial_Networks.ipynb): Generative Adversarial Networks (_Done_)
+
